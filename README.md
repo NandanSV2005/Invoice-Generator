@@ -3,13 +3,13 @@ This project is an automated invoice data extraction workflow built with n8n. It
 
 Explaination of each node present in the project
 
-1. Google Drive Trigger (fileCreated)
+#Google Drive Trigger (fileCreated)
 
 This node continuously monitors a chosen Google Drive folder.
 How it works:
 Whenever a new file (e.g., invoice PDF) is uploaded to the folder, this node triggers the workflow. It ensures automation begins the moment a file is added, eliminating the need for manual starts.
 
-2. Download File (Google Drive)
+2. **Download File (Google Drive)**
    
 This node retrieves the uploaded file so other nodes can process it.
 How it works:
