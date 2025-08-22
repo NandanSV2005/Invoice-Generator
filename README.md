@@ -38,3 +38,9 @@ Either appends a new row for each invoice or updates existing rows if the invoic
 This node notifies stakeholders once data has been extracted and saved.
 How it works:
 Creates a new email message.Inserts extracted invoice details or attaches the processed file.Sends it to a predefined email address.
+
+
+<img width="1918" height="833" alt="image" src="https://github.com/user-attachments/assets/60533529-da10-4308-b2b4-e02006e95f7f" />
+
+
+
